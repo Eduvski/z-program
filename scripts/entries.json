@@ -4,7 +4,7 @@
     "year": 2008,
     "month": 4,
     "day": 25,
-    "cover": "./images/covers/chaos_head_vn.jpg",
+    "cover": "images/covers/chaos_head_vn.jpg",
     "type": "visualNovel",
     "priority": "main"
   },
@@ -13,7 +13,7 @@
     "year": 2009,
     "month": 2,
     "day": 25,
-    "cover": "./images/covers/chaos_head_noah.jpg",
+    "cover": "images/covers/chaos_head_noah.jpg",
     "type": "visualNovel",
     "priority": "main"
   },
@@ -22,7 +22,7 @@
     "year": 2009,
     "month": 10,
     "day": 15,
-    "cover": "./images/covers/steins_gate_vn.jpg",
+    "cover": "images/covers/steins_gate_vn.jpg",
     "type": "visualNovel",
     "priority": "main"
   },
@@ -31,7 +31,7 @@
     "year": 2010,
     "month": 3,
     "day": 25,
-    "cover": "./images/covers/chaos_head_chu_chu.jpg",
+    "cover": "images/covers/chaos_head_chu_chu.jpg",
     "type": "visualNovel",
     "priority": "main"
   },
@@ -40,7 +40,7 @@
     "year": 2011,
     "month": 0,
     "day": 0,
-    "cover": "./images/covers/steins_gate_mde.jpg",
+    "cover": "images/covers/steins_gate_mde.jpg",
     "type": "visualNovel",
     "priority": "main"
   },
@@ -49,7 +49,7 @@
     "year": 2012,
     "month": 0,
     "day": 0,
-    "cover": "./images/covers/robotics_notes_vn.jpg",
+    "cover": "images/covers/robotics_notes_vn.jpg",
     "type": "visualNovel",
     "priority": "main"
   },
@@ -58,7 +58,7 @@
     "year": 2013,
     "month": 10,
     "day": 15,
-    "cover": "./images/covers/steins_gate_lbp.jpg",
+    "cover": "images/covers/steins_gate_lbp.jpg",
     "type": "visualNovel",
     "priority": "main"
   },
@@ -67,7 +67,7 @@
     "year": 2014,
     "month": 10,
     "day": 15,
-    "cover": "./images/covers/robotics_notes_elite.jpg",
+    "cover": "images/covers/robotics_notes_elite.jpg",
     "type": "visualNovel",
     "priority": "main"
   },
@@ -76,7 +76,7 @@
     "year": 2014,
     "month": 10,
     "day": 15,
-    "cover": "./images/covers/chaos_child_vn.jpg",
+    "cover": "images/covers/chaos_child_vn.jpg",
     "type": "visualNovel",
     "priority": "main"
   },
@@ -85,7 +85,7 @@
     "year": 2015,
     "month": 10,
     "day": 15,
-    "cover": "./images/covers/steins_gate_0_vn.jpg",
+    "cover": "images/covers/steins_gate_0_vn.jpg",
     "type": "visualNovel",
     "priority": "main"
   },
@@ -94,7 +94,7 @@
     "year": 2017,
     "month": 10,
     "day": 15,
-    "cover": "./images/covers/chaos_child_chu_chu.jpg",
+    "cover": "images/covers/chaos_child_chu_chu.jpg",
     "type": "visualNovel",
     "priority": "main"
   },
@@ -103,7 +103,7 @@
     "year": 2017,
     "month": 10,
     "day": 15,
-    "cover": "./images/covers/occultic_nine_vn.jpg",
+    "cover": "images/covers/occultic_nine_vn.jpg",
     "type": "visualNovel",
     "priority": "main"
   },
@@ -112,7 +112,7 @@
     "year": 2018,
     "month": 10,
     "day": 15,
-    "cover": "./images/covers/steins_gate_elite.jpg",
+    "cover": "images/covers/steins_gate_elite.jpg",
     "type": "visualNovel",
     "priority": "main"
   },
@@ -121,7 +121,7 @@
     "year": 2018,
     "month": 10,
     "day": 15,
-    "cover": "./images/covers/steins_gate_8_bit.jpg",
+    "cover": "images/covers/steins_gate_8_bit.jpg",
     "type": "visualNovel",
     "priority": "main"
   },
@@ -130,7 +130,7 @@
     "year": 2019,
     "month": 10,
     "day": 15,
-    "cover": "./images/covers/robotics_notes_dash.jpg",
+    "cover": "images/covers/robotics_notes_dash.jpg",
     "type": "visualNovel",
     "priority": "main"
   },
@@ -139,7 +139,7 @@
     "year": 2022,
     "month": 10,
     "day": 15,
-    "cover": "./images/covers/anonymous_code.jpg",
+    "cover": "images/covers/anonymous_code.jpg",
     "type": "visualNovel",
     "priority": "main"
   },
@@ -148,7 +148,7 @@
     "year": 2018,
     "month": 4,
     "day": 12,
-    "cover": "./images/covers/steins_gate_0_anime.jpg  ",
+    "cover": "images/covers/steins_gate_0_anime.jpg  ",
     "type": "anime",
     "priority": "main"
   },
@@ -157,7 +157,7 @@
     "year": 2011,
     "month": 4,
     "day": 6,
-    "cover": "./images/covers/steins_gate_anime.jpg",
+    "cover": "images/covers/steins_gate_anime.jpg",
     "type": "anime",
     "priority": "main"
   },
@@ -166,7 +166,7 @@
     "year": 2010,
     "month": 8,
     "day": 20,
-    "cover": "./images/covers/steins_gate_chained_ouroboros.jpg",
+    "cover": "images/covers/steins_gate_chained_ouroboros.jpg",
     "type": "lightNovel",
     "priority": "main"
   },
@@ -175,7 +175,7 @@
     "year": 2008,
     "month": 10,
     "day": 9,
-    "cover": "./images/covers/chaos_head_anime.jpg",
+    "cover": "images/covers/chaos_head_anime.jpg",
     "type": "anime",
     "priority": "main"
   },
@@ -184,7 +184,7 @@
     "year": 2018,
     "month": 12,
     "day": 21,
-    "cover": "./images/covers/steins_gate_0_anime_ova.png",
+    "cover": "images/covers/steins_gate_0_anime_ova.png",
     "type": "anime",
     "priority": "main"
   },
@@ -193,7 +193,7 @@
     "year": 2018,
     "month": 12,
     "day": 21,
-    "cover": "./images/covers/steins_gate_23b.jpg",
+    "cover": "images/covers/steins_gate_23b.jpg",
     "type": "anime",
     "priority": "main"
   },
@@ -202,7 +202,7 @@
     "year": 2013,
     "month": 4,
     "day": 20,
-    "cover": "./images/covers/steins_gate_lrdv.png",
+    "cover": "images/covers/steins_gate_lrdv.png",
     "type": "anime",
     "priority": "main"
   },
@@ -211,7 +211,7 @@
     "year": 2014,
     "month": 10,
     "day": 14,
-    "cover": "./images/covers/steins_gate_ibm.jpg",
+    "cover": "images/covers/steins_gate_ibm.jpg",
     "type": "anime",
     "priority": "main"
   },
@@ -220,7 +220,7 @@
     "year": 2009,
     "month": 9,
     "day": 26,
-    "cover": "./images/covers/steins_gate_manga.jpg",
+    "cover": "images/covers/steins_gate_manga.jpg",
     "type": "manga",
     "priority": "main"
   },
@@ -229,7 +229,7 @@
     "year": 2017,
     "month": 8,
     "day": 4,
-    "cover": "./images/covers/steins_gate_0_manga.jpg",
+    "cover": "images/covers/steins_gate_0_manga.jpg",
     "type": "manga",
     "priority": "main"
   },
@@ -238,7 +238,7 @@
     "year": 2009,
     "month": 12,
     "day": 28,
-    "cover": "./images/covers/steins_gate_boukan_no_rebellion.jpg",
+    "cover": "images/covers/steins_gate_boukan_no_rebellion.jpg",
     "type": "manga",
     "priority": "main"
   },
@@ -247,7 +247,7 @@
     "year": 2014,
     "month": 5,
     "day": 23,
-    "cover": "./images/covers/steins_gate_eigou_kaiki_no_pandora.jpg",
+    "cover": "images/covers/steins_gate_eigou_kaiki_no_pandora.jpg",
     "type": "manga",
     "priority": "main"
   },
@@ -256,7 +256,7 @@
     "year": 2013,
     "month": 2,
     "day": 22,
-    "cover": "./images/covers/steins_gate_heiji_kyoukusen_no_epigraph.jpg",
+    "cover": "images/covers/steins_gate_heiji_kyoukusen_no_epigraph.jpg",
     "type": "manga",
     "priority": "main"
   },
@@ -265,7 +265,7 @@
     "year": 2012,
     "month": 6,
     "day": 8,
-    "cover": "./images/covers/steins_gate_heni_kuukan_no_octet.jpg",
+    "cover": "images/covers/steins_gate_heni_kuukan_no_octet.jpg",
     "type": "manga",
     "priority": "main"
   },
@@ -274,7 +274,7 @@
     "year": 2014,
     "month": 4,
     "day": 10,
-    "cover": "./images/covers/steins_gate_senkei_kousoku_no_mosaicism.jpg",
+    "cover": "images/covers/steins_gate_senkei_kousoku_no_mosaicism.jpg",
     "type": "lightNovel",
     "priority": "main"
   },
@@ -283,7 +283,7 @@
     "year": 2011,
     "month": 1,
     "day": 8,
-    "cover": "./images/covers/steins_gate_slight_fever.jpg",
+    "cover": "images/covers/steins_gate_slight_fever.jpg",
     "type": "manga",
     "priority": "main"
   },
@@ -292,7 +292,7 @@
     "year": 2014,
     "month": 3,
     "day": 19,
-    "cover": "./images/covers/steins_gate_mugen_enten_no_arc_light.jpg",
+    "cover": "images/covers/steins_gate_mugen_enten_no_arc_light.jpg",
     "type": "manga",
     "priority": "main"
   },
@@ -301,7 +301,7 @@
     "year": 2012,
     "month": 5,
     "day": 19,
-    "cover": "./images/covers/steins_gate_aishin_meizu_no_babel.jpg",
+    "cover": "images/covers/steins_gate_aishin_meizu_no_babel.jpg",
     "type": "manga",
     "priority": "main"
   },
@@ -310,7 +310,7 @@
     "year": 2010,
     "month": 7,
     "day": 30,
-    "cover": "./images/covers/steins_gate_onshuu_no_brownian_motion.jpg",
+    "cover": "images/covers/steins_gate_onshuu_no_brownian_motion.jpg",
     "type": "manga",
     "priority": "main"
   },
@@ -319,7 +319,7 @@
     "year": 2011,
     "month": 1,
     "day": 7,
-    "cover": "./images/covers/steins_gate_chouyoku_no_divergence_reverse.jpg",
+    "cover": "images/covers/steins_gate_chouyoku_no_divergence_reverse.jpg",
     "type": "lightNovel",
     "priority": "main"
   },
@@ -328,7 +328,7 @@
     "year": 2013,
     "month": 4,
     "day": 24,
-    "cover": "./images/covers/gekijouban_steins_gate_fuka_ryouiki_no_deja_vu.jpg",
+    "cover": "images/covers/gekijouban_steins_gate_fuka_ryouiki_no_deja_vu.jpg",
     "type": "manga",
     "priority": "main"
   }
