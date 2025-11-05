@@ -1,0 +1,335 @@
+[
+  {
+    "title":  "Chaos;Head",
+    "year": 2008,
+    "month": 4,
+    "day": 25,
+    "cover": "./images/chaos_head_vn.jpg",
+    "type": "visualNovel",
+    "priority": "main"
+  },
+  {
+    "title":  "Chaos;Head NoAH",
+    "year": 2009,
+    "month": 2,
+    "day": 25,
+    "cover": "./images/chaos_head_noah.jpg",
+    "type": "visualNovel",
+    "priority": "main"
+  },
+  {
+    "title":  "Steins;Gate",
+    "year": 2009,
+    "month": 10,
+    "day": 15,
+    "cover": "./images/steins_gate_vn.jpg",
+    "type": "visualNovel",
+    "priority": "main"
+  },
+  {
+    "title":  "Chaos;Head Love Chu☆Chu!",
+    "year": 2010,
+    "month": 3,
+    "day": 25,
+    "cover": "./images/chaos_head_chu_chu.jpg",
+    "type": "visualNovel",
+    "priority": "main"
+  },
+  {
+    "title":  "Steins;Gate: My Darling's Embrace",
+    "year": 2011,
+    "month": 0,
+    "day": 0,
+    "cover": "./images/steins_gate_mde.jpg",
+    "type": "visualNovel",
+    "priority": "main"
+  },
+  {
+    "title":  "Robotics;Notes",
+    "year": 2012,
+    "month": 0,
+    "day": 0,
+    "cover": "./images/robotics_notes_vn.jpg",
+    "type": "visualNovel",
+    "priority": "main"
+  },
+  {
+    "title":  "Steins;Gate: Linear Bounded Phenogram",
+    "year": 2013,
+    "month": 10,
+    "day": 15,
+    "cover": "./images/steins_gate_lbp.jpg",
+    "type": "visualNovel",
+    "priority": "main"
+  },
+  {
+    "title":  "Robotics;Notes Elite",
+    "year": 2014,
+    "month": 10,
+    "day": 15,
+    "cover": "./images/robotics_notes_elite.jpg",
+    "type": "visualNovel",
+    "priority": "main"
+  },
+  {
+    "title":  "Chaos;Child",
+    "year": 2014,
+    "month": 10,
+    "day": 15,
+    "cover": "./images/chaos_child_vn.jpg",
+    "type": "visualNovel",
+    "priority": "main"
+  },
+  {
+    "title":  "Steins;Gate 0",
+    "year": 2015,
+    "month": 10,
+    "day": 15,
+    "cover": "./images/steins_gate_0_vn.jpg",
+    "type": "visualNovel",
+    "priority": "main"
+  },
+  {
+    "title":  "Chaos;Child Love Chu☆Chu!!",
+    "year": 2017,
+    "month": 10,
+    "day": 15,
+    "cover": "./images/chaos_child_chu_chu.jpg",
+    "type": "visualNovel",
+    "priority": "main"
+  },
+  {
+    "title":  "Occultic;Nine",
+    "year": 2017,
+    "month": 10,
+    "day": 15,
+    "cover": "./images/occultic_nine_vn.jpg",
+    "type": "visualNovel",
+    "priority": "main"
+  },
+  {
+    "title":  "Steins;Gate Elite",
+    "year": 2018,
+    "month": 10,
+    "day": 15,
+    "cover": "./images/steins_gate_elite.jpg",
+    "type": "visualNovel",
+    "priority": "main"
+  },
+  {
+    "title":  "8-Bit ADV Steins;Gate",
+    "year": 2018,
+    "month": 10,
+    "day": 15,
+    "cover": "./images/steins_gate_8_bit.jpg",
+    "type": "visualNovel",
+    "priority": "main"
+  },
+  {
+    "title":  "Robotics;Notes DaSH",
+    "year": 2019,
+    "month": 10,
+    "day": 15,
+    "cover": "./images/robotics_notes_dash.jpg",
+    "type": "visualNovel",
+    "priority": "main"
+  },
+  {
+    "title":  "Anonymous;Code",
+    "year": 2022,
+    "month": 10,
+    "day": 15,
+    "cover": "./images/anonymous_code.jpg",
+    "type": "visualNovel",
+    "priority": "main"
+  },
+  {
+    "title":  "Steins;Gate 0",
+    "year": 2018,
+    "month": 4,
+    "day": 12,
+    "cover": "./images/steins_gate_0_anime.jpg  ",
+    "type": "anime",
+    "priority": "main"
+  },
+  {
+    "title":  "Steins;Gate",
+    "year": 2011,
+    "month": 4,
+    "day": 6,
+    "cover": "./images/steins_gate_anime.jpg",
+    "type": "anime",
+    "priority": "main"
+  },
+  {
+    "title":  "Steins;Gate: Annularly-Chained Ouroboros",
+    "year": 2010,
+    "month": 8,
+    "day": 20,
+    "cover": "./images/steins_gate_chained_ouroboros.jpg",
+    "type": "lightNovel",
+    "priority": "main"
+  },
+  {
+    "title":  "ChäoS;HEAd",
+    "year": 2008,
+    "month": 10,
+    "day": 9,
+    "cover": "./images/chaos_head_anime.jpg",
+    "type": "anime",
+    "priority": "main"
+  },
+  {
+    "title":  "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
+    "year": 2018,
+    "month": 12,
+    "day": 21,
+    "cover": "./images/steins_gate_0_anime_ova.png",
+    "type": "anime",
+    "priority": "main"
+  },
+  {
+    "title":  "Steins;Gate 0: 23β -Divide by Zero-",
+    "year": 2018,
+    "month": 12,
+    "day": 21,
+    "cover": "./images/steins_gate_23b.jpg",
+    "type": "anime",
+    "priority": "main"
+  },
+  {
+    "title":  "Steins;Gate The Movie – Load Region of Déjà Vu",
+    "year": 2013,
+    "month": 4,
+    "day": 20,
+    "cover": "./images/steins_gate_lrdv.png",
+    "type": "anime",
+    "priority": "main"
+  },
+  {
+    "title":  "Steins;Gate: Soumei Eichi no Cognitive Computing",
+    "year": 2014,
+    "month": 10,
+    "day": 14,
+    "cover": "./images/steins_gate_ibm.jpg",
+    "type": "anime",
+    "priority": "main"
+  },
+  {
+    "title":  "Steins;Gate",
+    "year": 2009,
+    "month": 9,
+    "day": 26,
+    "cover": "./images/steins_gate_manga.jpg",
+    "type": "manga",
+    "priority": "main"
+  },
+  {
+    "title":  "Steins Gate 0",
+    "year": 2017,
+    "month": 8,
+    "day": 4,
+    "cover": "./images/steins_gate_0_manga.jpg",
+    "type": "manga",
+    "priority": "main"
+  },
+  {
+    "title":  "Steins;Gate: Boukan no Rebellion",
+    "year": 2009,
+    "month": 12,
+    "day": 28,
+    "cover": "./images/steins_gate_boukan_no_rebellion.jpg",
+    "type": "manga",
+    "priority": "main"
+  },
+  {
+    "title": "Steins;Gate: Eigou Kaiki no Pandora",
+    "year": 2014,
+    "month": 5,
+    "day": 23,
+    "cover": "./images/steins_gate_eigou_kaiki_no_pandora.jpg",
+    "type": "manga",
+    "priority": "main"
+  },
+  {
+    "title": "Steins;Gate: Heiji Kyokusen no Epigraph",
+    "year": 2013,
+    "month": 2,
+    "day": 22,
+    "cover": "./images/steins_gate_heiji_kyoukusen_no_epigraph.jpg",
+    "type": "manga",
+    "priority": "main"
+  },
+  {
+    "title": "Steins;Gate: Heni Kuukan no Octet",
+    "year": 2012,
+    "month": 6,
+    "day": 8,
+    "cover": "./images/steins_gate_heni_kuukan_no_octet.jpg",
+    "type": "manga",
+    "priority": "main"
+  },
+  {
+    "title": "Steins;Gate: Senkei Kousoku no Mosaicism",
+    "year": 2014,
+    "month": 4,
+    "day": 10,
+    "cover": "./images/steins_gate_senkei_kousoku_no_mosaicism.jpg",
+    "type": "lightNovel",
+    "priority": "main"
+  },
+  {
+    "title": "Steins;Gate: Shijou Saikyou no Slight Fever",
+    "year": 2011,
+    "month": 1,
+    "day": 8,
+    "cover": "./images/steins_gate_slight_fever.jpg",
+    "type": "manga",
+    "priority": "main"
+  },
+  {
+    "title": "Steins;Gate: Mugen Enten no Arc Light",
+    "year": 2014,
+    "month": 3,
+    "day": 19,
+    "cover": "./images/steins_gate_mugen_enten_no_arc_light.jpg",
+    "type": "manga",
+    "priority": "main"
+  },
+  {
+    "title": "Steins;Gate: Aishin Meizu no Babel",
+    "year": 2012,
+    "month": 5,
+    "day": 19,
+    "cover": "./images/steins_gate_aishin_meizu_no_babel.jpg",
+    "type": "manga",
+    "priority": "main"
+  },
+  {
+    "title": "Steins;Gate Onshuu no Brownian Motion",
+    "year": 2010,
+    "month": 7,
+    "day": 30,
+    "cover": "./images/steins_gate_onshuu_no_brownian_motion.jpg",
+    "type": "manga",
+    "priority": "main"
+  },
+  {
+    "title": "Steins;Gate Chouyoku no Divergence: Reverse",
+    "year": 2011,
+    "month": 1,
+    "day": 7,
+    "cover": "./images/steins_gate_chouyoku_no_divergence_reverse.jpg",
+    "type": "lightNovel",
+    "priority": "main"
+  },
+  {
+    "title": "Gekijouban Steins;Gate: Fuka Ryouiki no Déjà vu",
+    "year": 2013,
+    "month": 4,
+    "day": 24,
+    "cover": "./images/gekijouban_steins_gate_fuka_ryouiki_no_deja_vu.jpg",
+    "type": "manga",
+    "priority": "main"
+  }
+]
