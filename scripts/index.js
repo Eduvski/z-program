@@ -63,9 +63,9 @@ function generateColumn(yearNumber, entriesArray) {
 
   const columnHtml = `
      <div class="yearUnit">
-        <div class="timeline-category">
-          <div>${yearNumber}</div>
-        </div>
+      <div class="timeline-category">
+        ${yearNumber}
+      </div>
         <div class="timeline-row">
           <div class="cover-div">${entriesEvents}</div>
         </div>

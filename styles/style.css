@@ -15,7 +15,7 @@ body {
   background-color: rgb(1, 45, 92);
   align-items: center;
   justify-content: center;
-  height: 5%;
+  height: 5vh;
   color: white;
   font-weight: bold;
 }
@@ -32,6 +32,7 @@ body {
 }
 
 .main-content {
+  height: 95vh;
   flex: 1;
   display: flex;
 }
@@ -40,6 +41,8 @@ body {
   width: 120px;
   display: flex;
   flex-direction: column;
+  overflow-x: auto;
+  overflow-y: scroll;
 }
 
 .content-column {
@@ -48,7 +51,6 @@ body {
   flex-direction: row; 
   overflow-x: auto;
   overflow-y: scroll;
-  width: 2000px;
 }
 
 .yearUnit {
@@ -56,8 +58,12 @@ body {
   flex: 1;
   flex-direction: column;
   flex-direction: 1;
+  border-right: 1px solid rgb(231, 241, 255);
+  border-left: 1px solid rgb(231, 241, 255);
 }
-
+.yearUnit:hover{
+  border-color: rgb(51, 79, 131);
+}
 .timeline-row{
   border-bottom: 1px solid #AEC6FF ;
   display: flex;
@@ -68,6 +74,7 @@ body {
   justify-content: center;
   align-items: center;
 }
+
 
 .timeline-category,
 .categories {
@@ -86,6 +93,7 @@ body {
 }
 
 .categories {
+  
   flex: 1;
   border-bottom: 1px solid #334F83 ;
   border-right: 1px solid #334F83 ;
@@ -112,10 +120,10 @@ body {
   width: auto;
   margin: 25px;
   transition: all 0.15s ease;
+  cursor: pointer;
 }
 .covers:hover {
   box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.15);
-  cursor: pointer;
   transform: scale(1.25);
   
 }
